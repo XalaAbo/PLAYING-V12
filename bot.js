@@ -27,4 +27,4 @@ client.on("ready", () => {
 }); 
 
 ///////////////////////
-client.login("TOKENBOT");
+client.login("ODAyOTI3NTMzMDcwMzUyNDI1.YA2WiQ.jtjkTq7C_GiJJJwy8YR9O2d6-88");
