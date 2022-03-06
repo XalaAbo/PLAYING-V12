@@ -6,7 +6,7 @@ client.on("ready", () =>{
   client.user.setPresence({
     status: "idle",
     game: {
-       name: "Under Development|By ZeroHost",
+       name: "Under Development|AboMsto",
        type: "WATCHING",
     }
   });
@@ -27,4 +27,4 @@ client.on("ready", () => {
 }); 
 
 ///////////////////////
-client.login("TOKENBOT");
+client.login("ODExMjA2NjU4OTA2NzgzNzQ1.YCu1Eg.q0yUqpIorkgvMAapwouqDkSy3XA");
